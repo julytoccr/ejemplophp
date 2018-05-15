@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-  <title>Listado de artículos</title>
+  <title>Listado de articulos</title>
  <link rel="stylesheet" type="text/css" href="css/estilos.css">
 </head>
 <body>
